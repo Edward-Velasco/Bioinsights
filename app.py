@@ -10,5 +10,5 @@ def index():
 def get_data():
     return jsonify({'message': 'Hello from the backend!'})  # Serve data to frontend
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
