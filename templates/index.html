@@ -8,20 +8,9 @@
 </head>
 <body>
     <h1>Bioinsights</h1>
-    <button id="load-data">Get a Hi</button>
+    <button id="load-data">Load data from backend (check console)</button>
     <div id="data-container"></div>
 
-    <script>
-        // JavaScript to fetch data from the backend
-        document.getElementById('load-data').addEventListener('click', () => {
-            fetch('/api/data')
-                .then(response => response.json())
-                .then(data => {
-                    document.getElementById('data-container').textContent = data.message;
-                })
-                .catch(error => console.error('Error fetching data:', error));
-        });
-    </script>
     <script src="{{ url_for('static', filename='js/script.js') }}"/>
 </body>
 </html>
