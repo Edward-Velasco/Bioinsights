@@ -522,9 +522,101 @@ HTML
     </div>
     <div class="Detailed2.1">
 
+<header>
+            <h1>Experiment Overview</h1>
+        </header>
+    
+        <section class="main-content">
+            <div class="left-section">
+                <div class="card">
+                    <p>20 C57BL/6J males between 16 - 17 weeks of age, first group of 20 individuals flight to ISS - Identifier 74, second group of 20 individuals habitat ground control (HGC) - Identifier 767, third group nursery ground control (VGC) - Identifier 766. LAR Flight mice</p>
+                </div>
+                <div class="card">
+                    <p>Housing of mice for 5 weeks, kept in micro gravity</p>
+                </div>
+                <div class="card large-card">
+                    <p>The research conducted in Rodents - 23 (RR-23), aims to clarify the conditions given in the visual function in spaceflight, both before and after spaceflight...</p>
+                </div>
+            </div>
+    
+            <div class="right-section">
+                <div class="card">
+                    <h3>Experimental Analysis Procedure</h3>
+                    <p>Payload identifier: RR-23, Vehiculo Dragon de SpaceX-21, 12/05/2018 - 01/14/2019</p>
+                </div>
+                <div class="card">
+                    <p>A subset of each group of mice is taken for testing such as IOP (intraocular pressure measurements), OCT (optical coherence tomography) and ultrasound</p>
+                </div>
+                <div class="card large-card">
+                    <p>Hydrodynamic data are collected from IOP, OCT, ultrasound, measurement of retinal microvascular permeability, heart blood and heart dissection...</p>
+                </div>
+                <div class="card">
+                    <p>RR-23 BSP Tissue Processing and Preservation included the following: Adrenal Glands, Brain, Brown Adipose Tissue (BAT), etc...</p>
+                </div>
+            </div>
+        </section>
+    
+        <footer>
+            <p>Experiment conducted in the International Space Station (ISS)</p>
+        </footer>
+
     </div>
     <div class="Detailed2.2">
+<header>
+        <h1>Experiment Overview</h1>
+    </header>
 
+    <section class="main-content">
+        <div class="left-section">
+            <div class="card">
+                <p>20 C57BL/6J males between 16 - 17 weeks of age, first group of 20 individuals flight to ISS - Identifier 74, second group of 20 individuals habitat ground control (HGC) - Identifier 767, third group nursery ground control (VGC) - Identifier 766. LAR Flight mice</p>
+            </div>
+            <div class="card">
+                <p>Housing of mice for 5 weeks, kept in micro gravity</p>
+            </div>
+            <div class="card large-card">
+                <p>The research conducted in Rodents - 23 (RR-23), aims to clarify the conditions given in the visual function in spaceflight, both before and after spaceflight...</p>
+            </div>
+        </div>
+
+        <div class="right-section">
+            <div class="card">
+                <h3>Experimental Analysis Procedure</h3>
+                <p>Payload identifier: RR-23, Vehiculo Dragon de SpaceX-21, 12/05/2018 - 01/14/2019</p>
+            </div>
+            <div class="card">
+                <p>A subset of each group of mice is taken for testing such as IOP (intraocular pressure measurements), OCT (optical coherence tomography) and ultrasound</p>
+            </div>
+            <div class="card large-card">
+                <p>Hydrodynamic data are collected from IOP, OCT, ultrasound, measurement of retinal microvascular permeability, heart blood and heart dissection...</p>
+            </div>
+            <div class="card">
+                <p>RR-23 BSP Tissue Processing and Preservation included the following: Adrenal Glands, Brain, Brown Adipose Tissue (BAT), etc...</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="standards-section">
+        <h2>Standards used for the standardization of experiments</h2>
+        <div class="standards-row">
+            <div class="standard-card">
+                <img src="cheese1.png" alt="Cheese Icon">
+                <p>2014 International Space Station (ISS) environment simulator (AAU)</p>
+            </div>
+            <div class="standard-card">
+                <img src="cheese2.png" alt="Cheese Icon">
+                <p>1379 Rodent habitat (AEM-T)</p>
+            </div>
+            <div class="standard-card">
+                <img src="cheese3.png" alt="Cheese Icon">
+                <p>1380 Animal Enclosure Module Shuttle (AEM-T)</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Experiment conducted in the International Space Station (ISS)</p>
+    </footer>
     </div>
 
 </body>
